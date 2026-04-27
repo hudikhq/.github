@@ -8,7 +8,7 @@ Home of **[Hoodik](https://hoodik.io)** — a lightweight, self-hosted, end-to-e
 - **[hoodik-landing](https://github.com/hudikhq/hoodik-landing)** — source of the marketing site at [hoodik.io](https://hoodik.io). Nuxt 3.
 - **[hoodik-unraid](https://github.com/hudikhq/hoodik-unraid)** — container templates for deploying Hoodik on Unraid.
 
-Native apps for iOS, Android, macOS, Windows, and Linux are built on top of the same Rust crates as the server, so every client shares the same audited cryptography.
+Native apps for iOS, Android, and macOS are built on top of the same Rust crates as the server, so every client shares the same audited cryptography.
 
 ## Try it
 
