@@ -42,4 +42,4 @@ Both the server and the client are licensed [CC BY-NC 4.0](https://github.com/hu
 
 ## About
 
-Hoodik is developed by **Hudik d.o.o.**, based in Osijek, Croatia. Curious how it compares to Nextcloud, Proton Drive, or Tresorit? See the [comparisons](https://hoodik.io/vs). Bug reports, questions, and contributions are welcome on the individual project repos.
+Hoodik is developed by **Hudik d.o.o.**, based in Osijek, Croatia ([@htunlogic](https://x.com/htunlogic)). Curious how it compares to Nextcloud, Proton Drive, or Tresorit? See the [comparisons](https://hoodik.io/vs). Bug reports, questions, and contributions are welcome on the individual project repos.
